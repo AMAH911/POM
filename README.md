@@ -4,7 +4,7 @@ Written in Python
 Using Tkinter
 
 
-** Gif below display the apps current functionality
+** Gifs below display the apps current functionality
 
 
 
@@ -21,7 +21,6 @@ Reset Function
 
 Adjust Settings function
 
-AdjustSettings
 
 ![](AdjustSettings.gif)
 
